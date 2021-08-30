@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning android development.
 - 💞️ I’m looking to collaborate on android development.
 - 📫 How to reach me ofiachinasa14@gmail.com.
+- 💻 I’m currently learning flutter
 
 <!---
 ChancyNas/ChancyNas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
